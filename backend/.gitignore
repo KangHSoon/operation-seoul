@@ -1,0 +1,14 @@
+# 설정 파일 (DB 비밀번호 등 포함)
+/src/main/resources/application.properties
+
+# 빌드 결과물
+/build/
+/.gradle/
+/out/
+
+# 인텔리제이 설정
+/.idea/
+*.iml
+
+# OS 관련
+.DS_Store
